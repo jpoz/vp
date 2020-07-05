@@ -1,6 +1,6 @@
 # vp
 
-View pictures, photo and images in your terminal
+View pictures, photos and images in your terminal
 
 <img alt="image" src="https://user-images.githubusercontent.com/12866/86538161-25bb3e00-bea9-11ea-9eac-5bb5ac6fd53a.png">
 
