@@ -1,7 +1,8 @@
 # vp
 
-vp: View Pictures in your terminal
+View picture, photo and images in your terminal
 
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/12866/86538161-25bb3e00-bea9-11ea-9eac-5bb5ac6fd53a.png">
 
 ### Requirements:
 
